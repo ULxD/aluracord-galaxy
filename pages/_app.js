@@ -25,13 +25,12 @@ function GlobalStyle(){
       flex: 1;
     }
     /* ./App fit Height */ 
-    .btn{
-      border: 2px solid #ffffff;
-      height: 4vh;
-      width: 5vw;
-      cursor: pointer;
-      padding: 1vh 0.5vw
+
+
+    ::webkitScrollbar{
+      width: 2px,
     }
+      
   `}</style>
 );
 }

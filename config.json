@@ -1,5 +1,5 @@
 {
-    "name": "Aluracord - Space (ULxD)",
+    "name": "xD Cord - Space (ULxD)",
     "stickers": [
       "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_1.png",
       "https://www.alura.com.br/imersao-react-4/assets/figurinhas/Figurinha_2.png",
@@ -45,10 +45,10 @@
           "100": "#C1EAC5",
           "200": "#A3D9A5",
           "300": "#7BC47F",
-          "400": "#57AE5B",
+          "400": "#63d6f2",
           "500": "#3F9142",
           "600": "#2F8132",
-          "700": "#207227",
+          "700": "#119dbf",
           "800": "#0E5814",
           "900": "#05400A"
         },
